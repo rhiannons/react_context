@@ -6,7 +6,7 @@ import CustomEnvContext from './context/CustomEnvContext'
 import CustomEnvDataBlock from './components/CustomEnvDataBlock'
 
 // Externally Defined Context Paramaters Example
-import EnvContext, {EnvContextProvider} from './context/EnvContext'
+import {EnvContextProvider} from './context/EnvContext'
 import EnvDataBlock from './components/EnvDataBlock'
 
 class App extends Component {
